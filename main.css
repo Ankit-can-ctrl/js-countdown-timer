@@ -31,7 +31,17 @@
     color:white;
     text-align: center;
     }
+
+    .sec-div {
+        font-family: 'Handjet', cursive;
+    color: white;
+    font-size: 5rem;
+    font-weight: bolder;
+    margin: 0rem 1.5rem;
+    text-align: center;
 }
+ }
+
 
 .Countdown {
     display: flex;
@@ -43,7 +53,7 @@
 .sec-div {
     font-family: 'Handjet', cursive;
     color: white;
-    font-size: 5rem;
+    font-size: 3rem;
     font-weight: bolder;
     margin: 0rem 1.5rem;
     text-align: center;
