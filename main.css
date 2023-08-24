@@ -18,30 +18,19 @@
 .main-title {
     margin-top:3rem;
     font-family: 'Orbitron', sans-serif;
-    font-size: 4rem;
+    font-size: 2rem;
     color:white;
     text-align: center;
 }
-
-@media (min-width:32.625rem) {
+@media(min-width:27.625rem) {
     .main-title {
-    margin-top:3rem;
+    margin: 3rem;
     font-family: 'Orbitron', sans-serif;
-    font-size: 5rem;
+    font-size: 3.5rem;
     color:white;
     text-align: center;
     }
-
-    .sec-div {
-        font-family: 'Handjet', cursive;
-    color: white;
-    font-size: 5rem;
-    font-weight: bolder;
-    margin: 0rem 1.5rem;
-    text-align: center;
 }
- }
-
 
 .Countdown {
     display: flex;
@@ -53,7 +42,7 @@
 .sec-div {
     font-family: 'Handjet', cursive;
     color: white;
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: bolder;
     margin: 0rem 1.5rem;
     text-align: center;
